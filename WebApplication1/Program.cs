@@ -1,4 +1,4 @@
-//teste - GitHub Pages
+// teste do hook
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
