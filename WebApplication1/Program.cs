@@ -1,4 +1,4 @@
-//teste lab - comentário AB# na descrição
+//teste - GitHub Pages
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
