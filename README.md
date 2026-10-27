@@ -1,3 +1,1 @@
-[![CodeQL](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/github-code-scanning/codeql)
-
-[![CodeQL Advanced](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/codeql.yml/badge.svg)](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/github-code-scanning/codeql) [![CodeQL Advanced](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/codeql.yml/badge.svg)](https://github.com/dirceu1978/az-400-WebApplication1/actions/workflows/codeql.yml)
